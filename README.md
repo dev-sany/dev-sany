@@ -1,5 +1,5 @@
 <h1 align="center">Helo 👋, I'm Alfesany</h1>
-<h3 align="center">A passionate Web developer| Web Solutions|WordPress Expart</h3>
+<h3 align="center">A passionate Web developer| Web Solutions| WordPress Expert</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb-sany&label=Profile%20views&color=0e75b6&style=flat" alt="deb-sany" /> </p>
 
